@@ -11,14 +11,23 @@ In this website, the goal is to show clothes for men and appeal to male customer
 
 ## Learning Activities:
 Videos are used to understand how to use Wordpress and Joomla.
+
 Wordpress:
+
 https://www.youtube.com/watch?v=kYY88h5J86A&ab_channel=CreateWPSite
+
 https://www.youtube.com/watch?v=hfzUFXW78mU&t=401s&ab_channel=StewartGauld
+
 Joomla:
+
 https://www.youtube.com/watch?v=h5VZwTLdgdM&t=3375s&ab_channel=TechRuzzTutorials
+
 Look into various websites to see how others that are selling kid's clothes or adult men make their website:
+
 https://www.lepetitsociety.com/
+
 https://www.mimimono.sg/
+
 https://www.uniqlo.com/sg/en/men
 
 ## Content Insights:
