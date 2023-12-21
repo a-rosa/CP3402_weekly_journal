@@ -1,4 +1,4 @@
-# Week 3 Journal
+# Week 4 Journal
 
 ## Learning Activities & Resources:
 https://www.how2shout.com/tools/best-software-to-create-localhost-server-on-windows-10.html \
